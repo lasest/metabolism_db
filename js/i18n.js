@@ -61,7 +61,7 @@ const I18N = {
         appTitle:
             "Metabolic activity of immune system cells under fullerenol C<sub>60</sub>(OH)<sub>24</sub> exposure",
         appSubtitle:
-            "Seahorse respiratory data (OCR/ECAR) for monocytes, T cells, THP-1 and Jurkat.",
+            "Seahorse XFe96 respiratory data (OCR/ECAR) for monocytes, T cells, THP-1 and Jurkat cells measured after incubation with fullerenol nanoparticles.",
         filtersTitle: "Filters",
         cellType: "Cell type",
         exposureTime: "Exposure time",
